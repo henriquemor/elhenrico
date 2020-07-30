@@ -1,4 +1,7 @@
-### Hi there 👋
+### Let's build something together 🛠️
+
+- 📫 How to reach me: h@moraes.dev
+- 💬 Ask me about Grim Fandango.
 
 <!--
 **elhenrico/elhenrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
