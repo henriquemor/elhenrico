@@ -1,6 +1,11 @@
-### Let's build something together 🛠️
+### 👋 Let's 🛠️ together.
 
-- 📫 How to reach me: henrique@moraes.dev
+- 📫 How to reach me: henrique@moraes.dev [*skip the formalities*]
+- 💻 I’m currently learning Unity and Blender
+- 📢 ... and looking to collaborate on new projects and gamejams
+- 💬 Ask me about Grim Fandango 💀
+
+🇧🇷🇺🇸🇮🇹
 
 <!--
 **elhenrico/elhenrico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
