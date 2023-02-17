@@ -2,7 +2,8 @@
 
 - 📫 How to reach me: henrique@moraes.dev [*skip the formalities*]
 - 💻 Always learning something new
-- 📢 ... and looking to collaborate on new projects and gamejams
-- 💬 Ask me about Grim Fandango 💀
+- 📢 ... and looking to collaborate on new projects, specially games
+- 💬 Ask me about science, art, games and sci-fi
+- 🤓 creating bookmarklets for fun
 
 🇧🇷🇺🇸🇮🇹
